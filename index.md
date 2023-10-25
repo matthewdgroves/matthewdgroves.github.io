@@ -4,7 +4,7 @@ feature_text: |
   ## Alembic
   A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia"
+excerpt: "Matthew Groves is a one man science-religion reconciliation committee, NPR Philadelphia"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
