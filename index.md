@@ -1,8 +1,7 @@
 ---
 title: About Alembic
 feature_text: |
-  ## 
-  Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia
+  ## Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia
 feature_image: "/assets/images/stars-in-the-night-sky.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
