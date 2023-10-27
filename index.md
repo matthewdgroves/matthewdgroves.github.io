@@ -11,7 +11,7 @@ In an age of conflict, I help the scientific and Christian communities get along
 
 I've been featured on NPR's All Things Considered, teach Sunday School classes and youth groups, and write about climate change and other science and faith topics.
 
-
+<h2 style="text-align: center;">More places where I've taught, preached, or published</h2>
 ## More places where I've taught, preached, or published
 
 
