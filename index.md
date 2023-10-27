@@ -19,10 +19,12 @@ I've been featured on NPR's All Things Considered, teach Sunday School classes a
 ## More places where I've taught, preached, or published
 
 
+
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt=" " src="assets/images/Churches etc/FBN.png" First Baptist Nashville>   | <img width="1604" alt="" src="assets/images/Churches etc/CtK.png" Christ the King Catholic Church, Nashville>|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg" Otter Creek Church (Church of Christ), Nashville, TN>|
-|<img width="1604" alt="" src="assets/images/Churches etc/Westminster Pres.png" Westminster Presbyterian Church, Nashville, TN>  |  <img width="1604" alt="" src="assets/images/Churches etc/Eastwood.png" Eastwood Christian Church (Disciples of Christ)>|<img width="1604" alt="" src="">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="assets/images/Churches etc/FBN.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="assets/images/Churches etc/CtK.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="assets/images/Churches etc/Otter Creek CoC.jpeg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="assets/images/Churches etc/Westminster Pres.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="assets/images/Churches etc/Eastwood.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 
 
