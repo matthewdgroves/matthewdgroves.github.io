@@ -7,9 +7,10 @@ feature_image: "/assets/images/stars-in-the-night-sky.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia
 
-{% include figure.html image="assets/images/People/GrovesHeadshot.jpg" width="300" height="800" %}
+| | |
+|:-------------------------:|:-------------------------:|
+| Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia  |   {% include figure.html image="assets/images/People/GrovesHeadshot.jpg" width="300" height="800" %}  |
 
 In an age of conflict, I help the scientific and Christian communities get along. Using my unique background as a science teacher, a seminary student, and a Christian from rural Appalachia, I work as a science educator for faith communities. 
 
@@ -17,10 +18,6 @@ I've been featured on NPR's All Things Considered, teach Sunday School classes a
 
 
 ## More places where I've taught, preached, or published
-
-
-
-
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="" src="assets/images/Churches etc/FBN.png"> | <img width="1604" alt="" src="assets/images/Churches etc/CtK.png">|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg">|<img width="1604" alt="" src="assets/images/Tennesseean.png">|
