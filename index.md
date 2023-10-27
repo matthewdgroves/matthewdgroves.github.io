@@ -7,9 +7,6 @@ feature_image: "/assets/images/stars-in-the-night-sky.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
- <img src="assets/images/People/GrovesHeadshot.jpg">|
-
-
 {% include figure.html image="assets/images/People/GrovesHeadshot.jpg" width="300" height="800" %}
 
 In an age of conflict, I help the scientific and Christian communities get along. Using my unique background as a science teacher, a seminary student, and a Christian from rural Appalachia, I work as a science educator for faith communities. 
