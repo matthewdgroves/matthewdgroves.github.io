@@ -23,11 +23,12 @@ I've been featured on NPR's All Things Considered, teach Sunday School classes a
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="" src="assets/images/Churches etc/FBN.png">  Nashville First Baptist, Nashville TN |  <img width="1604" alt="" src="assets/images/Churches etc/CtK.png"> Christ the King Catholic Church, Nashville TN|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg"> Otter Creek Church of Christ, Nashville TN|
+|<img width="1604" alt="" src="assets/images/Churches etc/FBN.png"> | <img width="1604" alt="" src="assets/images/Churches etc/CtK.png">|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg">|
 |<img width="1604" alt="" src="assets/images/Churches etc/Westminster Pres.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Eastwood.png">|<img width="1604" alt="" src="assets/images/March for Science Nashville.png">|
 |<img width="1604" alt="" src="assets/images/Churches etc/Tennessee Tech Wesley.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/First Christian Chattanooga.png">|<img width="1604" alt="" src="assets/images/VDS.png">|
 |<img width="1604" alt="" src="assets/images/Churches etc/Calvary UMC.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Woodmont.jpg">|<img width="1604" alt="" src="assets/images/Churches etc/First Pres Nashville.png">|
-
+|<img width="1604" alt="" src="assets/images/Churches etc/Temple Ohabei Sholom.png">  |  <img width="1604" alt="" src="assets/images/BNG.png">|<img width="1604" alt="" src="assets/images/Churches etc/Holy Trinity UCC.png">|
+|<img width="1604" alt="" src="assets/images/Gateway.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Hurstbourne CC.png">|<img width="1604" alt="" src="assets/images/The Climate and You.png">|
 
 
 
