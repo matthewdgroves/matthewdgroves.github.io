@@ -15,7 +15,9 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
     <td>In an age of conflict, I help the scientific and Christian communities get along. Using my unique background as a science teacher, a seminary student, and a Christian from rural Appalachia, I work as a science educator for faith communities. 
     I've been featured on NPR's All Things Considered, teach Sunday School classes and youth groups, and write about climate change and other science and faith topics.  
     </td>
-    <td>{% include figure.html image="assets/images/People/GrovesHeadshot.jpg" width="300" height="800" %}</td>
+    <td>
+     <img width="50%" src="assets/images/People/GrovesHeadshot.jpg">
+    </td>
   </tr>
 </tbody>
 </table>
