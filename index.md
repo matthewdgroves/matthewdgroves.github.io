@@ -1,15 +1,28 @@
 ---
-title: Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia
+title: 
 feature_text: |
 feature_image: "/assets/images/stars-in-the-night-sky.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-{% include figure.html image="assets/images/People/GrovesHeadshot.jpg" width="300" height="800" %}
+<h1 style="text-align: center;">Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia</h1>
 
-In an age of conflict, I help the scientific and Christian communities get along. Using my unique background as a science teacher, a seminary student, and a Christian from rural Appalachia, I work as a science educator for faith communities. 
 
-I've been featured on NPR's All Things Considered, teach Sunday School classes and youth groups, and write about climate change and other science and faith topics.
+
+<table>
+<tbody>
+  <tr>
+    <td>In an age of conflict, I help the scientific and Christian communities get along. Using my unique background as a science teacher, a seminary student, and a Christian from rural Appalachia, I work as a science educator for faith communities. 
+    I've been featured on NPR's All Things Considered, teach Sunday School classes and youth groups, and write about climate change and other science and faith topics.  
+    </td>
+    <td>{% include figure.html image="assets/images/People/GrovesHeadshot.jpg" width="300" height="800" %}</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
 
 <h2 style="text-align: center;">More places where I've taught, preached, or published</h2>
 
