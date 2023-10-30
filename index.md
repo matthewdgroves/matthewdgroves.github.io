@@ -16,7 +16,7 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
     I've been featured on NPR's All Things Considered, teach Sunday School classes and youth groups, and write about climate change and other science and faith topics.  
     </td>
     <td>
-     <img width="50%" src="assets/images/People/GrovesHeadshot.jpg">
+     <img width="500px" src="assets/images/People/GrovesHeadshot.jpg">
     </td>
   </tr>
 </tbody>
