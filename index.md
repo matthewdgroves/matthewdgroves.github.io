@@ -7,7 +7,8 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 <h1 style="text-align: center;">Matthew Groves is a "one man science-religion reconciliation committee," NPR Philadelphia</h1>
 
-
+<br>
+<br>
 
 <table>
 <tbody>
@@ -23,6 +24,8 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 </table>
 
 
+<br>
+<br>
 
 
 
