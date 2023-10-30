@@ -10,6 +10,3 @@ Please use the contact form if you have any suggestions for new projects or woul
 ### Contact form
 
 {% include site-form.html %}
-
-``` html
-{% raw %}{% include site-form.html %}{% endraw %}
