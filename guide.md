@@ -18,6 +18,7 @@ While researching, I have – by both choice and necessity – spent considerabl
 Here’s a general outline that you can use as a table of contents, followed by my take on each topic. I’ve tried to include my references wherever possible so that you can read for yourself, and there are a lot of hyperlinks for easy clicking. The links are also listed at the end of the document. Feel free to email me about climate change or other science issues. I will do my best to answer your questions or steer you towards resources that can. Happy reading.
 
 Matthew Groves
+
 Text last revised Spring 2017
 
 
