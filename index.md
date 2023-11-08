@@ -45,5 +45,4 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
 
 
 
-
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
+{% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
