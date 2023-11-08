@@ -32,30 +32,30 @@ The College of William & Mary – B.S. 2016: Physics, Religious Studies
 ## TABLE OF CONTENTS
 (Click a topic to jump ahead if you like)
 
-*Introduction
-**Attitude and approach
-**XKCD Timeline
-**Changing Temperatures since 1850
-*Data and the Science
-**NASA
-**The IPCC (Inter-governmental Panel on Climate Change)
-***FAQs
-***Certainties
-***How we know the warming is caused by humans and not natural processes
-**Extra thought: What’s the difference in climate and weather? How can we predict the climate but not Saturday’s temperature?
-*The Scientific Consensus
-**Human-caused climate change is “virtually unanimous”
-**The “97%” statistic (Cook 2013) and its proper usage
-***A common critique of the Cook 2013 article
-*The Public Consensus
-**The “Consensus Gap” and why it bothers me
-**How it is slowly improving
-*The Carbon Cycle and Greenhouse Gases
-**A superb (if colorful) article about the history of humanity and fossil fuels
-**Extra thought: Isn’t all of this worrying over just a few degrees? Why such a fuss over such a little shift?
-*COP 21: The Paris Agreement
-**The basics
-*Conclusion
-**Denial is a problem for both conservatives and liberals
-**Theology
-*Links referenced
+* Introduction
+    * Attitude and approach
+    * XKCD Timeline
+    * Changing Temperatures since 1850
+* Data and the Science
+    * NASA
+    * The IPCC (Inter-governmental Panel on Climate Change)
+        * FAQs
+        * Certainties
+        * How we know the warming is caused by humans and not natural processes
+    * Extra thought: What’s the difference in climate and weather? How can we predict the climate but not Saturday’s temperature?
+* The Scientific Consensus
+    * Human-caused climate change is “virtually unanimous”
+    * The “97%” statistic (Cook 2013) and its proper usage
+        * A common critique of the Cook 2013 article
+* The Public Consensus
+    * The “Consensus Gap” and why it bothers me
+    * How it is slowly improving
+* The Carbon Cycle and Greenhouse Gases
+    * A superb (if colorful) article about the history of humanity and fossil fuels
+    * Extra thought: Isn’t all of this worrying over just a few degrees? Why such a fuss over such a little shift?
+* COP 21: The Paris Agreement
+    * The basics
+* Conclusion
+    * Denial is a problem for both conservatives and liberals
+    * Theology
+* Links referenced
