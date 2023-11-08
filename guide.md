@@ -3,7 +3,9 @@ title: Climate Change - A Guide for the Perplexed
 excerpt: What we know and how we know it
 ---
 
-<img src="assets/images/Glacier.jpg" width="300" height="800">
+<!-- <img src="assets/images/Glacier.jpg" width="300" height="800"> -->
+
+!["image test"](assets/images/Glacier.jpg)
 
 Hello Reader,
 
