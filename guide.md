@@ -3,8 +3,7 @@ title: Climate Change - A Guide for the Perplexed
 excerpt: What we know and how we know it
 ---
 
-{% include figure.html image="assets/images/Glacier.jpg" width="300" height="800" %}
-
+<img src="assets/images/Glacier.jpg" width="300" height="800">
 
 Hello Reader,
 
