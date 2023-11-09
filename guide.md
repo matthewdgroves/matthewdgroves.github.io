@@ -66,11 +66,11 @@ To begin, a comment I hear a lot is “It’s arrogant to believe we can change 
 
 Two things first, to get your feet wet. The [graph below](https://xkcd.com/1732/) is an accurate, humorous overview to get a feel for the timescale of climate change. The creator, XKCD.com, is a science humor website run by a former NASA employee named Randall Munroe. He got his data from the IPCC, which I’ll discuss below. Quality charts are worth a thousand words, and this is one of the best plots in all of science communication.  It demonstrates that the climate does indeed go through warming cycles, but not with anything approaching the severity of our warming in the last 150 years. I would encourage you to think of a person who lived “a very long time ago” (Jesus, for example) and keep that date in mind as you scroll through:
 
-!["XKCD Timeline"](assets/images/Climate%20Change%20images/XKCD%20Timeline.jpg)
+!["XKCD Timeline"](assets/images/Climate/XKCD_Timeline.jpg)
 
 Second, the graphic below, from [this page](http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/), is an excellent visualization of temperature change over the last century and a half. The author, Dr. Ed Hawkins, is a Meteorologist at the University of Reading in the UK. He also references climate data from the 5th Edition IPCC report, to which he contributed.
 
-!["Hawkins Spiral"](assets/images/Climate%20Change%20images/spiral2016)
+!["Hawkins Spiral"](assets/images/Climate/spiral2016)
 
 # Data and the Science
 
@@ -78,15 +78,15 @@ NASA is heavily involved in climate research (we usually forget about the “Air
 
 **Temperature**: “[This graph](http://climate.nasa.gov/) illustrates the change in global surface temperature relative to 1951-1980 average temperatures. The 10 warmest years in the 136-year record all have occurred since 2000, with the exception of 1998. The year 2015 ranks as the warmest on record.”
 
-!["NASA Temp"](assets/images/Climate%20Change%20images/NASA%20Temp.png)
+!["NASA Temp"](assets/images/Climate/NASA_Temp.png)
 
 [Carbon Dioxide (CO2) levels in the atmosphere](http://climate.nasa.gov/evidence/): 
 
-!["NASA CO2"](assets/images/Climate%20Change%20images/NASA%20CO2.png)
+!["NASA CO2"](assets/images/Climate/NASA_CO2.png)
 
 The climate does indeed go through cycles, as is often noted by climate change skeptics. But not like this, as the figure above shows. For more information about why CO2 and other greenhouse gas levels in the atmosphere matter, look ahead to the section called “The Carbon Cycle and Greenhouse Gases.”
 
 An [update from the 2013 IPCC report](http://climate.nasa.gov/climate_resources/26/), to which 25 NASA scientists contributed:
 
-!["NASA 4 Key Findings"](/assets/images/Climate%20Change%20images/NASA%204%20key%20findings.png)
+!["NASA 4 Key Findings"](/assets/images/Climate/NASA_findings.png)
 
