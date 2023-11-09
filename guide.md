@@ -31,33 +31,33 @@ The College of William & Mary – B.S. 2016: Physics, Religious Studies
 ## TABLE OF CONTENTS
 (Click a topic to jump ahead if you like)
 
-* ### Introduction
+* #### Introduction
     * Attitude and approach
     * XKCD Timeline
     * Changing Temperatures since 1850
-* ### Data and the Science
+* #### Data and the Science
     * NASA
     * The IPCC (Inter-governmental Panel on Climate Change)
         * FAQs
         * Certainties
         * How we know the warming is caused by humans and not natural processes
     * Extra thought: What’s the difference in climate and weather? How can we predict the climate but not Saturday’s temperature?
-* ### The Scientific Consensus
+* #### The Scientific Consensus
     * Human-caused climate change is “virtually unanimous”
     * The “97%” statistic (Cook 2013) and its proper usage
         * A common critique of the Cook 2013 article
-* ### The Public Consensus
+* #### The Public Consensus
     * The “Consensus Gap” and why it bothers me
     * How it is slowly improving
-* ### The Carbon Cycle and Greenhouse Gases
+* #### The Carbon Cycle and Greenhouse Gases
     * A superb (if colorful) article about the history of humanity and fossil fuels
     * Extra thought: Isn’t all of this worrying over just a few degrees? Why such a fuss over such a little shift?
-* ### COP 21: The Paris Agreement
+* #### COP 21: The Paris Agreement
     * The basics
-* ### Conclusion
+* #### Conclusion
     * Denial is a problem for both conservatives and liberals
     * Theology
-* ### Links referenced
+* #### Links referenced
 
 
 # Intro
@@ -79,4 +79,14 @@ NASA is heavily involved in climate research (we usually forget about the “Air
 **Temperature**: “[This graph](http://climate.nasa.gov/) illustrates the change in global surface temperature relative to 1951-1980 average temperatures. The 10 warmest years in the 136-year record all have occurred since 2000, with the exception of 1998. The year 2015 ranks as the warmest on record.”
 
 !["NASA Temp"](assets/images/Climate%20Change%20images/NASA%20Temp.png)
+
+[Carbon Dioxide (CO2) levels in the atmosphere](http://climate.nasa.gov/evidence/): 
+
+!["NASA CO2"](assets/images/Climate%20Change%20images/NASA%20CO2.png)
+
+The climate does indeed go through cycles, as is often noted by climate change skeptics. But not like this, as the figure above shows. For more information about why CO2 and other greenhouse gas levels in the atmosphere matter, look ahead to the section called “The Carbon Cycle and Greenhouse Gases.”
+
+An [update from the 2013 IPCC report](http://climate.nasa.gov/climate_resources/26/), to which 25 NASA scientists contributed:
+
+!["NASA 4 Key Findings"](/assets/images/Climate%20Change%20images/NASA%204%20key%20findings.png)
 
