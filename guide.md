@@ -4,7 +4,7 @@ excerpt: What we know and how we know it
 ---
 
 <!-- <img src="assets/images/Glacier.jpg" width="300" height="800"> -->
-
+<img src="/assets/images/Glacier.jpg" width="300">
 !["image test"](assets/images/Glacier.jpg)
 
 Hello Reader,
@@ -25,6 +25,7 @@ Text last revised Spring 2017
 
 
 [matthew@matthewdgroves.com](matthew@matthewdgroves.com)
+
 Vanderbilt Divinity School – MDiv. 2019
 The College of William & Mary – B.S. 2016: Physics, Religious Studies
 
@@ -59,3 +60,7 @@ The College of William & Mary – B.S. 2016: Physics, Religious Studies
     * Denial is a problem for both conservatives and liberals
     * Theology
 * ### Links referenced
+
+
+
+
