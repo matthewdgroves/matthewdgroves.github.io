@@ -3,9 +3,7 @@ title: Climate Change - A Guide for the Perplexed
 excerpt: What we know and how we know it
 ---
 
-<!-- <img src="assets/images/Glacier.jpg" width="300" height="800"> -->
-<img src="/assets/images/Glacier.jpg" width="400" margins="auto">
-!["image test"](assets/images/Glacier.jpg)
+!["Glaciers"](assets/images/Glacier.jpg)
 
 Hello Reader,
 
@@ -67,4 +65,18 @@ The College of William & Mary – B.S. 2016: Physics, Religious Studies
 To begin, a comment I hear a lot is “It’s arrogant to believe we can change something as large as the climate.” By a charitable reading, this has a nice dose of humility. Unfortunately, it is ultimately an opinion brought to a discussion about facts. A decent metaphor is to say that “It’s arrogant to believe we could destroy the entire Amazon forest” without checking whether or not we’re cutting down trees, and how quickly. In short, I would argue that it’s more arrogant to assume that humanity can do whatever it wants without any consequences.
 
 Two things first, to get your feet wet. The [graph below](https://xkcd.com/1732/) is an accurate, humorous overview to get a feel for the timescale of climate change. The creator, XKCD.com, is a science humor website run by a former NASA employee named Randall Munroe. He got his data from the IPCC, which I’ll discuss below. Quality charts are worth a thousand words, and this is one of the best plots in all of science communication.  It demonstrates that the climate does indeed go through warming cycles, but not with anything approaching the severity of our warming in the last 150 years. I would encourage you to think of a person who lived “a very long time ago” (Jesus, for example) and keep that date in mind as you scroll through:
+
+!["XKCD Timeline"](assets/images/Climate%20Change%20images/XKCD%20Timeline.jpg)
+
+Second, the graphic below, from [this page](http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/), is an excellent visualization of temperature change over the last century and a half. The author, Dr. Ed Hawkins, is a Meteorologist at the University of Reading in the UK. He also references climate data from the 5th Edition IPCC report, to which he contributed.
+
+!["Hawkins Spiral"](assets/images/Climate%20Change%20images/spiral2016)
+
+# Data and the Science
+
+NASA is heavily involved in climate research (we usually forget about the “Air” in National Aeronautics and Space Administration). NASA has [an entire website](http://climate.nasa.gov/scientific-consensus/) devoted to climate change, which houses huge amounts of resources. I’ve pulled three charts directly from the site here and made a small list of other recommendations below them. I encourage you to click around the “Evidence” and “Consensus” sections on the site and anything else that looks interesting.
+
+**Temperature**: “[This graph](http://climate.nasa.gov/) illustrates the change in global surface temperature relative to 1951-1980 average temperatures. The 10 warmest years in the 136-year record all have occurred since 2000, with the exception of 1998. The year 2015 ranks as the warmest on record.”
+
+!["NASA Temp"](assets/images/Climate%20Change%20images/NASA%20Temp.png)
 
