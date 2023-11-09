@@ -4,7 +4,7 @@ excerpt: What we know and how we know it
 ---
 
 <!-- <img src="assets/images/Glacier.jpg" width="300" height="800"> -->
-<img src="/assets/images/Glacier.jpg" width="300">
+<img src="/assets/images/Glacier.jpg" width="400" margins="auto">
 !["image test"](assets/images/Glacier.jpg)
 
 Hello Reader,
@@ -62,5 +62,9 @@ The College of William & Mary – B.S. 2016: Physics, Religious Studies
 * ### Links referenced
 
 
+# Intro
 
+To begin, a comment I hear a lot is “It’s arrogant to believe we can change something as large as the climate.” By a charitable reading, this has a nice dose of humility. Unfortunately, it is ultimately an opinion brought to a discussion about facts. A decent metaphor is to say that “It’s arrogant to believe we could destroy the entire Amazon forest” without checking whether or not we’re cutting down trees, and how quickly. In short, I would argue that it’s more arrogant to assume that humanity can do whatever it wants without any consequences.
+
+Two things first, to get your feet wet. The [graph below](https://xkcd.com/1732/) is an accurate, humorous overview to get a feel for the timescale of climate change. The creator, XKCD.com, is a science humor website run by a former NASA employee named Randall Munroe. He got his data from the IPCC, which I’ll discuss below. Quality charts are worth a thousand words, and this is one of the best plots in all of science communication.  It demonstrates that the climate does indeed go through warming cycles, but not with anything approaching the severity of our warming in the last 150 years. I would encourage you to think of a person who lived “a very long time ago” (Jesus, for example) and keep that date in mind as you scroll through:
 
