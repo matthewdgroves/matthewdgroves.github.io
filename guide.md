@@ -241,6 +241,46 @@ Grist, How to talk to a Climate Skeptic. Accessed February 8, 2017.
     http://grist.org/series/skeptics/
 
 #### Scientific Consensus
+James Lawrence Powell, “Climate Scientists Virtually Unanimous: Anthropogenic Global Warming is True.” Bulletin of Science, Technology & Society. 2015, Vol. 35 (5-6), pp121-124. Accessed February 8, 2017.
+    http://journals.sagepub.com/doi/pdf/10.1177/0270467616634958
+
+John Cook, Dana Nuccitelli, Sarah Green, Mark Richardson, Barbel Winkler, Rob Painting, Robert Way, Peter Jacobs, and Andrew Skuce, “Quantifying the Consensus on anthropogenic global warming in the scientific literature.” Environmental Research Letters. 8 (2013) 024024, 7pp. Accessed February 8, 2017.
+    http://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024/pdf
+
+William Anderegg, James Prall, Jacob Harold, and Stephen Schneider, “Expert credibility in climate change.” Proceedings of the National Academy of Sciences. July 6, 2010. Vol. 107, no 27, 12107-12109. Accessed February 8, 2017.
+    http://www.pnas.org/content/107/27/12107.full.pdf
+
+JS Carlton, Rebecca Perry-Hill, Matthew Huber, and Linda Prokopy, “The climate change consensus extends beyond climate scientists.” Environmental Research Letters. 10 (2015) 094025. Accessed February 8, 2017.
+    http://iopscience.iop.org/article/10.1088/1748-9326/10/9/094025/pdf
+
+Alex Epstein, “Do 97% of Climate Scientists Really Agree?” PragerU. July 11, 2016. Accessed February 8, 2017.
+    https://www.prageru.com/courses/environmental-science/do-97-climate-scientists-really-agree
+
+#### Public Consensus
+Pew Research Center, “Public and Scientists’ Views on Science and Society,” Cary Grant and Lee Rainie. January 29, 2015. Accessed February 8, 2017.
+    http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/
+
+Pew Research Center, “Religion and Views on Climate and Energy Issues,” Cary Funk and Becka A. Alper. October 22, 2015. Accessed February 8, 2017.
+    http://www.pewinternet.org/2015/10/22/religion-and-views-on-climate-and-energy-issues/#fn-14899-1
+
+#### The Carbon Cycle and Greenhouse Gases
+Tim Urban, “How Tesla Will Change the World,” WaitButWhy. June 2, 2015, Accessed February 8, 2017.
+    http://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html
+
+#### COP21: The Paris Agreement
+BBC News, “Paris Climate Deal: US and China formally join pact.” September 3, 2016. Accessed February 8, 2017.
+    http://www.bbc.com/news/world-asia-china-37265541
+
+United Nations Treaty Collection, “Paris Agreement: Paris, December 12, 2015.” Accessed February 8, 2017.
+    https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en#EndDec
+
+United Nations: Framework Convention on Climate Change, “Adoption of the Paris Agreement.” December 12, 2015. Accessed February 8, 2017.
+    http://unfccc.int/resource/docs/2015/cop21/eng/l09r01.pdf
+
+United Nations, “Climate Change Conference, Paris 2015.” Accessed February 8, 2017.
+    http://www.un.org/sustainabledevelopment/cop21/
+
+
 
 <!-- 
 NASA, Global Climate Change: Vital Signs of the Planet. Accessed February 7, 2017.
