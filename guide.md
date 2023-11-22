@@ -207,12 +207,10 @@ Matthew Groves
 # References
 
 #### Introduction
-NASA, Global Climate Change: Vital Signs of the Planet. Accessed February 7, 2017.
-    [http://climate.nasa.gov/] (http://climate.nasa.gov/)
+NASA, [Global Climate Change: Vital Signs of the Planet.](http://climate.nasa.gov/) Accessed February 7, 2017.
 
-XKCD, Earth Temperature Timeline. Accessed February 3, 2017.
-    https://xkcd.com/1732/
-
+XKCD, [Earth Temperature Timeline.](https://xkcd.com/1732/) Accessed February 3, 2017.
+    
 Spiralling Global Temperatures, Dr. Ed Hawkins, Climate Lab Book. Accessed February 3, 2017.
     http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/
 
