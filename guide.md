@@ -205,6 +205,43 @@ Matthew Groves
 
 
 # References
+
+#### Introduction
+NASA, Global Climate Change: Vital Signs of the Planet. Accessed February 7, 2017.
+    [http://climate.nasa.gov/] (http://climate.nasa.gov/)
+
+XKCD, Earth Temperature Timeline. Accessed February 3, 2017.
+    https://xkcd.com/1732/
+
+Spiralling Global Temperatures, Dr. Ed Hawkins, Climate Lab Book. Accessed February 3, 2017.
+    http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/
+
+#### Data and the Science
+
+NASA, Global Climate Change: Vital Signs of the Planet. Accessed February 7, 2017.
+    http://climate.nasa.gov/scientific-consensus/http://climate.nasa.gov/climate_resources/125/
+    http://climate.nasa.gov/climate_resources/139/
+    http://climate.nasa.gov/vital-signs/global-temperature/
+    http://climate.nasa.gov/climate_resources/26/
+    http://climate.nasa.gov/interactives/global-ice-viewer/#/
+
+IPCC, 2007: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Accessed February 8, 2017.
+
+    Full Report: http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf
+
+    Technical Summary: https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-ts.pdf
+
+    FAQ:  https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-faqs.pdf
+
+IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp. Accessed February 8, 2017.
+
+    Poster: http://www.ipcc.ch/report/ar5/wg1/docs/WGI_AR5_2013_Poster.pdf
+
+Grist, How to talk to a Climate Skeptic. Accessed February 8, 2017.
+    http://grist.org/series/skeptics/
+
+#### Scientific Consensus
+
 <!-- 
 NASA, Global Climate Change: Vital Signs of the Planet. Accessed February 7, 2017.
 
