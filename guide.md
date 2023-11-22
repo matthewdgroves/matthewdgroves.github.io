@@ -211,72 +211,56 @@ NASA, [Global Climate Change: Vital Signs of the Planet.](http://climate.nasa.go
 
 XKCD, [Earth Temperature Timeline.](https://xkcd.com/1732/) Accessed February 3, 2017.
     
-Spiralling Global Temperatures, Dr. Ed Hawkins, Climate Lab Book. Accessed February 3, 2017.
-    http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/
+[Spiralling Global Temperatures](http://www.climate-lab-book.ac.uk/2016/spiralling-global-temperatures/), Dr. Ed Hawkins, Climate Lab Book. Accessed February 3, 2017.
 
 #### Data and the Science
 
 NASA, Global Climate Change: Vital Signs of the Planet. Accessed February 7, 2017.
-    http://climate.nasa.gov/scientific-consensus/http://climate.nasa.gov/climate_resources/125/
-    http://climate.nasa.gov/climate_resources/139/
-    http://climate.nasa.gov/vital-signs/global-temperature/
-    http://climate.nasa.gov/climate_resources/26/
-    http://climate.nasa.gov/interactives/global-ice-viewer/#/
+* [Scientific Consensus](http://climate.nasa.gov/scientific-consensus/http://climate.nasa.gov/climate_resources/125/)
+* [Climate Resources](http://climate.nasa.gov/climate_resources/139/)
+* [Global Temperatures](http://climate.nasa.gov/vital-signs/global-temperature/)
+* [More Climate Resources](http://climate.nasa.gov/climate_resources/26/)
+* [Global Ice Interactive](http://climate.nasa.gov/interactives/global-ice-viewer/#/)
 
 IPCC, 2007: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Accessed February 8, 2017.
-
-    Full Report: http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf
-
-    Technical Summary: https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-ts.pdf
-
-    FAQ:  https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-faqs.pdf
+* [Full Report:](http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf)
+* [Technical Summary:]( https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-ts.pdf)
+* [FAQ:] (https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-faqs.pdf)
 
 IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp. Accessed February 8, 2017.
+* [Poster:](http://www.ipcc.ch/report/ar5/wg1/docs/WGI_AR5_2013_Poster.pdf)
 
-    Poster: http://www.ipcc.ch/report/ar5/wg1/docs/WGI_AR5_2013_Poster.pdf
-
-Grist, How to talk to a Climate Skeptic. Accessed February 8, 2017.
-    http://grist.org/series/skeptics/
+Grist, [How to talk to a Climate Skeptic.](http://grist.org/series/skeptics/) Accessed February 8, 2017.
 
 #### Scientific Consensus
-James Lawrence Powell, “Climate Scientists Virtually Unanimous: Anthropogenic Global Warming is True.” Bulletin of Science, Technology & Society. 2015, Vol. 35 (5-6), pp121-124. Accessed February 8, 2017.
-    http://journals.sagepub.com/doi/pdf/10.1177/0270467616634958
+James Lawrence Powell, [“Climate Scientists Virtually Unanimous: Anthropogenic Global Warming is True.”](http://journals.sagepub.com/doi/pdf/10.1177/0270467616634958) Bulletin of Science, Technology & Society. 2015, Vol. 35 (5-6), pp121-124. Accessed February 8, 2017.
 
-John Cook, Dana Nuccitelli, Sarah Green, Mark Richardson, Barbel Winkler, Rob Painting, Robert Way, Peter Jacobs, and Andrew Skuce, “Quantifying the Consensus on anthropogenic global warming in the scientific literature.” Environmental Research Letters. 8 (2013) 024024, 7pp. Accessed February 8, 2017.
-    http://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024/pdf
+John Cook, Dana Nuccitelli, Sarah Green, Mark Richardson, Barbel Winkler, Rob Painting, Robert Way, Peter Jacobs, and Andrew Skuce, [“Quantifying the Consensus on anthropogenic global warming in the scientific literature.”](http://iopscience.iop.org/article/10.1088/1748-9326/8/2/024024/pdf) Environmental Research Letters. 8 (2013) 024024, 7pp. Accessed February 8, 2017.
 
-William Anderegg, James Prall, Jacob Harold, and Stephen Schneider, “Expert credibility in climate change.” Proceedings of the National Academy of Sciences. July 6, 2010. Vol. 107, no 27, 12107-12109. Accessed February 8, 2017.
-    http://www.pnas.org/content/107/27/12107.full.pdf
+William Anderegg, James Prall, Jacob Harold, and Stephen Schneider, [“Expert credibility in climate change.”](http://www.pnas.org/content/107/27/12107.full.pdf) Proceedings of the National Academy of Sciences. July 6, 2010. Vol. 107, no 27, 12107-12109. Accessed February 8, 2017.
 
-JS Carlton, Rebecca Perry-Hill, Matthew Huber, and Linda Prokopy, “The climate change consensus extends beyond climate scientists.” Environmental Research Letters. 10 (2015) 094025. Accessed February 8, 2017.
-    http://iopscience.iop.org/article/10.1088/1748-9326/10/9/094025/pdf
+JS Carlton, Rebecca Perry-Hill, Matthew Huber, and Linda Prokopy, [“The climate change consensus extends beyond climate scientists.](   http://iopscience.iop.org/article/10.1088/1748-9326/10/9/094025/pdf) Environmental Research Letters. 10 (2015) 094025. Accessed February 8, 2017.
 
-Alex Epstein, “Do 97% of Climate Scientists Really Agree?” PragerU. July 11, 2016. Accessed February 8, 2017.
-    https://www.prageru.com/courses/environmental-science/do-97-climate-scientists-really-agree
+Alex Epstein, [“Do 97% of Climate Scientists Really Agree?”](https://www.prageru.com/courses/environmental-science/do-97-climate-scientists-really-agree) PragerU. July 11, 2016. Accessed February 8, 2017.
+ 
 
 #### Public Consensus
-Pew Research Center, “Public and Scientists’ Views on Science and Society,” Cary Grant and Lee Rainie. January 29, 2015. Accessed February 8, 2017.
-    http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/
+Pew Research Center, [“Public and Scientists’ Views on Science and Society,”](http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society/) Cary Grant and Lee Rainie. January 29, 2015. Accessed February 8, 2017.
 
-Pew Research Center, “Religion and Views on Climate and Energy Issues,” Cary Funk and Becka A. Alper. October 22, 2015. Accessed February 8, 2017.
-    http://www.pewinternet.org/2015/10/22/religion-and-views-on-climate-and-energy-issues/#fn-14899-1
+Pew Research Center, [“Religion and Views on Climate and Energy Issues,”](http://www.pewinternet.org/2015/10/22/religion-and-views-on-climate-and-energy-issues/#fn-14899-1) Cary Funk and Becka A. Alper. October 22, 2015. Accessed February 8, 2017.
 
 #### The Carbon Cycle and Greenhouse Gases
-Tim Urban, “How Tesla Will Change the World,” WaitButWhy. June 2, 2015, Accessed February 8, 2017.
-    http://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html
+Tim Urban, [“How Tesla Will Change the World,”](http://waitbutwhy.com/2015/06/how-tesla-will-change-your-life.html) WaitButWhy. June 2, 2015, Accessed February 8, 2017.
 
 #### COP21: The Paris Agreement
-BBC News, “Paris Climate Deal: US and China formally join pact.” September 3, 2016. Accessed February 8, 2017.
-    http://www.bbc.com/news/world-asia-china-37265541
+BBC News, [“Paris Climate Deal: US and China formally join pact.”](http://www.bbc.com/news/world-asia-china-37265541) September 3, 2016. Accessed February 8, 2017.
 
-United Nations Treaty Collection, “Paris Agreement: Paris, December 12, 2015.” Accessed February 8, 2017.
-    https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en#EndDec
-
-United Nations: Framework Convention on Climate Change, “Adoption of the Paris Agreement.” December 12, 2015. Accessed February 8, 2017.
-    http://unfccc.int/resource/docs/2015/cop21/eng/l09r01.pdf
-
-United Nations, “Climate Change Conference, Paris 2015.” Accessed February 8, 2017.
-    http://www.un.org/sustainabledevelopment/cop21/
+United Nations Treaty Collection, [“Paris Agreement: Paris, December 12, 2015.”](https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en#EndDec) Accessed February 8, 2017.
+    
+United Nations: Framework Convention on Climate Change, [“Adoption of the Paris Agreement.”](http://unfccc.int/resource/docs/2015/cop21/eng/l09r01.pdf) December 12, 2015. Accessed February 8, 2017.
+    
+United Nations, [“Climate Change Conference, Paris 2015.”](http://www.un.org/sustainabledevelopment/cop21/) Accessed February 8, 2017.
+    
 
 
 
