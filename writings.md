@@ -15,6 +15,6 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 <table>
     <tr>
         <td> <h2> Opinion Pieces </h2></td>
-        <td> <h2>## The Coronavirus</h2> </td>
+        <td> <h2> The Coronavirus </h2> </td>
     </tr>
 </table>
