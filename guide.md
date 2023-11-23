@@ -225,10 +225,10 @@ NASA, Global Climate Change: Vital Signs of the Planet. Accessed February 7, 201
 IPCC, 2007: Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change [Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA. Accessed February 8, 2017.
 * [Full Report:](http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4_wg1_full_report.pdf)
 * [Technical Summary:]( https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-ts.pdf)
-* [FAQ:] (https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-faqs.pdf)
+* [FAQ:](https://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-faqs.pdf)
 
 IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp. Accessed February 8, 2017.
-* [Poster:](http://www.ipcc.ch/report/ar5/wg1/docs/WGI_AR5_2013_Poster.pdf)
+* [Poster](http://www.ipcc.ch/report/ar5/wg1/docs/WGI_AR5_2013_Poster.pdf)
 
 Grist, [How to talk to a Climate Skeptic.](http://grist.org/series/skeptics/) Accessed February 8, 2017.
 
