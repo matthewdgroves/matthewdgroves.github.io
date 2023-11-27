@@ -21,8 +21,8 @@ After receiving many questions about the topic, I wrote an introductory-level gu
     </tr>
     <tr>
         <td> <ul>
-            <li> <img src='assets/images/Tennesseean.png'> I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. </li>
-            <li> <img src='assets/images/Orgs/YECA.jpg'> With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. </li>
+            <li> I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. </li>
+            <li> With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. </li>
             <li> I wrote a Letter to the Editor critiquing the Trump administration’s attacks on the Endangered Species Act. </li>
             <li> "Jesus didn’t say anything about climate change, but he said plenty about how we should care for those whom society would prefer to forget.” </li>
             <li> When informed Christians ponder devastation from climate change that will affect millions of people for generations to come, it’s easy to lose hope for the future. But our actions still matter. We must not give up. </li>
@@ -38,9 +38,6 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 </table>
 </html>
-
-
-
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="" src="assets/images/Churches etc/FBN.png"> | <img width="1604" alt="" src="assets/images/Churches etc/CtK.png">|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg">|<img width="1604" alt="" src="assets/images/Tennesseean.png">|
@@ -49,7 +46,6 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 |<img width="1604" alt="" src="assets/images/Churches etc/Calvary UMC.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Woodmont.jpg">|<img width="1604" alt="" src="assets/images/Churches etc/First Pres Nashville.png">|<img width="1604" alt="" src="assets/images/Churches etc/BCM.jpg">|
 |<img width="1604" alt="" src="assets/images/Churches etc/Temple Ohabei Sholom.png">  |  <img width="1604" alt="" src="assets/images/BNG.png">|<img width="1604" alt="" src="assets/images/Churches etc/Holy Trinity UCC.png">|<img width="1604" alt="" src="assets/images/Orgs/Rotary Club of Nashville.jpg">|
 |<img width="1604" alt="" src="assets/images/Gateway.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Hurstbourne CC.png">|<img width="1604" alt="" src="assets/images/The Climate and You.png">|<img width="1604" alt="" src="assets/images/Churches etc/UCC.png">|
-
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="" src="assets/images/Churches etc/FBN.png"> | <img width="1604" alt="" src="assets/images/Churches etc/CtK.png">|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg">|
