@@ -27,12 +27,16 @@ After receiving many questions about the topic, I wrote an introductory-level gu
             <li> "Jesus didn’t say anything about climate change, but he said plenty about how we should care for those whom society would prefer to forget.” </li>
             <li> When informed Christians ponder devastation from climate change that will affect millions of people for generations to come, it’s easy to lose hope for the future. But our actions still matter. We must not give up. </li>
         
-        
-        
-        
-        
         </ul> </td>
-        <td> <h2>  </h2> </td>
+
+        <td> <ul>   
+            <li> 1 - The Science </li>
+            <li> 2 - The Solutions </li>
+            <li> 3 - The Spirituality </li>
+            <li> Climate, the Coronavirus, and Justice </li>
+            
+
+        </ul> </td>
     </tr>
 
 </table>
