@@ -12,19 +12,12 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 | **Opinion Pieces** | **The Coronavirus** |
 | :----------:       | :-----:             |
-| I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. ![The Tennesseean](assets/images/Tennesseean.png) | 1 - The Science |
+| I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. [The Tennesseean, 2020](https://www.tennessean.com/story/opinion/2020/03/09/california-clean-car-standard-deserves-support/4980634002/) ![The Tennesseean](assets/images/Tennesseean.png) | 1 - The Science |
 |  |  |
-| With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)  | 2 - The Solutions |
+| With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post, 2019](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html) ![TheChristianPost](assets/images/Orgs/The Christian Post.png) | 2 - The Solutions |
 |  |  |
 | ksldf | 3 - The Spirituality |
 
-| **Opinion Pieces** |    | **The Coronavirus** |
-| :----------:       |:--:| :-----:             |
-| I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. ![The Tennesseean](assets/images/Tennesseean.png) |  | 1 - The Science |
-|  |  |  |
-| With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)      |  |  |
-|  |  |  |
-|  |  |  |
 
 <html>
 <table>
