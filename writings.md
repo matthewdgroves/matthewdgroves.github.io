@@ -10,10 +10,10 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%}
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| Opinion Pieces        |           | The Coronavirus  |
+| ------------- |:-------------:| :-----:|
+| I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards.      |  |  |
+| With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)      | centered      |   $12 |
 | image | ![](image.jpg?cropResize=50,50) |    $1 |
 
 <html>
