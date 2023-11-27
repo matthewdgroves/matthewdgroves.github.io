@@ -13,7 +13,9 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 | Opinion Pieces        |           | The Coronavirus  |
 | ------------- |:-------------:| :-----:|
 | I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards.      |  |  |
+|  |  |  |
 | With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)      | centered      |   $12 |
+|  |  |  |
 | image | ![](image.jpg?cropResize=50,50) |    $1 |
 
 <html>
