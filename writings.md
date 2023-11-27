@@ -10,13 +10,17 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%}
 
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| image | ![](image.jpg?cropResize=50,50) |    $1 |
 
 <html>
 <table>
     <tr>
         <td> <h2> Opinion Pieces </h2></td>
-        <td></td>
+        <td> </td>
         <td> <h2> The Coronavirus </h2> </td>
     </tr>
     <tr>
@@ -27,7 +31,7 @@ After receiving many questions about the topic, I wrote an introductory-level gu
             <li> "Jesus didn’t say anything about climate change, but he said plenty about how we should care for those whom society would prefer to forget.” </li>
             <li> When informed Christians ponder devastation from climate change that will affect millions of people for generations to come, it’s easy to lose hope for the future. But our actions still matter. We must not give up. </li>
         </ul> </td>
-        <td></td>
+        <td> </td>
         <td> <ul>   
             <li> 1 - The Science </li>
             <li> 2 - The Solutions </li>
