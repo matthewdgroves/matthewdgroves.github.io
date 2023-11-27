@@ -16,7 +16,12 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 |  |  |
 | With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post, 2019](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html) <br/> ![TheChristianPost](assets/images/Orgs/The Christian Post.png) | I wrote a primer on the coronavirus in the early days of the pandemic that received a few thousand views. [Part 2 - The Solutions](/PartTwoSolutions) |
 |  |  |
-| ksldf | I wrote a primer on the coronavirus in the early days of the pandemic that received a few thousand views. [Part 3 - The Spirituality](/PartThreeSpirituality) |
+| I wrote a Letter to the Editor critiquing the Trump administration’s attacks on the Endangered Species Act. [The Tennesseean, 2019](assets/LTETennessean.pdf) ![The Tennesseean](assets/images/Tennesseean.png)| I wrote a primer on the coronavirus in the early days of the pandemic that received a few thousand views. [Part 3 - The Spirituality](/PartThreeSpirituality) |
+|  |  |
+| "Jesus didn’t say anything about climate change, but he said plenty about how we should care for those whom society would prefer to forget.” [Baptist News Global, 2017](https://baptistnews.com/article/climate-change-gospel-issue-time-christians-acknowledged/) |  |
+|  |  |
+
+| When informed Christians ponder devastation from climate change that will affect millions of people for generations to come, it’s easy to lose hope for the future. But our actions still matter. We must not give up. [Baptist News Global, 2018](https://baptistnews.com/article/climate-nihilism-is-right-to-recognize-the-dire-situation-were-in-but-wrong-to-lose-hope/) |  |
 
 
 <html>
