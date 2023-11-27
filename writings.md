@@ -10,8 +10,16 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%}
 
-| **Opinion Pieces**  |           | **The Coronavirus** |
-| :-------------: |:-------------:| :-----:|
+| **Opinion Pieces** | **The Coronavirus** |
+| :----------:       | :-----:             |
+| I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. ![The Tennesseean](assets/images/Tennesseean.png) | 1 - The Science |
+|  |  |
+| With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)  | 2 - The Solutions |
+|  |  |
+| ksldf | 3 - The Spirituality |
+
+| **Opinion Pieces** |    | **The Coronavirus** |
+| :----------:       |:--:| :-----:             |
 | I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. ![The Tennesseean](assets/images/Tennesseean.png) |  | 1 - The Science |
 |  |  |  |
 | With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)      |  |  |
