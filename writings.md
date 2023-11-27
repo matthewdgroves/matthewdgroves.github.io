@@ -18,7 +18,7 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 |  |  |
 | With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post, 2019](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html) <br/> ![TheChristianPost](assets/images/Orgs/The Christian Post.png) | A deeper exploration and explanation of the public health solutions being recommended during the lockdowns [Part 2 - The Solutions](/PartTwoSolutions) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
 |  |  |
-| I wrote a Letter to the Editor critiquing the Trump administration’s attacks on the Endangered Species Act. [The Tennesseean, 2019](assets/LTETennessean.pdf) ![The Tennesseean](assets/images/Tennesseean.png)| Reflections on the spiritual and theological nature of pandemics, suffering, community, and reading scripture in trying times . [Part 3 - The Spirituality](/PartThreeSpirituality) |
+| I wrote a Letter to the Editor critiquing the Trump administration’s attacks on the Endangered Species Act. [The Tennesseean, 2019](assets/LTETennessean.pdf) ![The Tennesseean](assets/images/Tennesseean.png)| Reflections on the spiritual and theological nature of pandemics, suffering, community, and reading scripture in trying times . [Part 3 - The Spirituality](/PartThreeSpirituality) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
 |  |  |
 | "Jesus didn’t say anything about climate change, but he said plenty about how we should care for those whom society would prefer to forget.” [Baptist News Global, 2017](https://baptistnews.com/article/climate-change-gospel-issue-time-christians-acknowledged/) ![Baptist News Global](assets/images/BNG.png) | Climate, the Coronavirus, and Justice [Justice Unbound, 2020](https://justiceunbound.org/climate-the-coronavirus-and-justice/) ![Justice Unbound](assets/images/JusticeUnboundLogoBlack.png)|
 |  |  |
@@ -52,12 +52,3 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 </table>
 </html>
-
-| | | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="" src="assets/images/Churches etc/FBN.png"> | <img width="1604" alt="" src="assets/images/Churches etc/CtK.png">|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg">|<img width="1604" alt="" src="assets/images/Tennesseean.png">|
-|<img width="1604" alt="" src="assets/images/Churches etc/Westminster Pres.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Eastwood.png">|<img width="1604" alt="" src="assets/images/March for Science Nashville.png">|<img width="1604" alt="" src="assets/images/Churches etc/StHenry.png">|
-|<img width="1604" alt="" src="assets/images/Churches etc/Tennessee Tech Wesley.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/First Christian Chattanooga.png">|<img width="1604" alt="" src="assets/images/VDS.png">|<img width="1604" alt="" src="assets/images/Churches etc/West End UMC.png">|
-|<img width="1604" alt="" src="assets/images/Churches etc/Calvary UMC.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Woodmont.jpg">|<img width="1604" alt="" src="assets/images/Churches etc/First Pres Nashville.png">|<img width="1604" alt="" src="assets/images/Churches etc/BCM.jpg">|
-|<img width="1604" alt="" src="assets/images/Churches etc/Temple Ohabei Sholom.png">  |  <img width="1604" alt="" src="assets/images/BNG.png">|<img width="1604" alt="" src="assets/images/Churches etc/Holy Trinity UCC.png">|<img width="1604" alt="" src="assets/images/Orgs/Rotary Club of Nashville.jpg">|
-|<img width="1604" alt="" src="assets/images/Gateway.png">  |  <img width="1604" alt="" src="assets/images/Churches etc/Hurstbourne CC.png">|<img width="1604" alt="" src="assets/images/The Climate and You.png">|<img width="1604" alt="" src="assets/images/Churches etc/UCC.png">|
