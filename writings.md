@@ -22,7 +22,7 @@ After receiving many questions about the topic, I wrote an introductory-level gu
     <tr>
         <td> <ul>
             <li> I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. </li>
-            <li> With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. </li>
+            <li> With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)</li>
             <li> I wrote a Letter to the Editor critiquing the Trump administration’s attacks on the Endangered Species Act. </li>
             <li> "Jesus didn’t say anything about climate change, but he said plenty about how we should care for those whom society would prefer to forget.” </li>
             <li> When informed Christians ponder devastation from climate change that will affect millions of people for generations to come, it’s easy to lose hope for the future. But our actions still matter. We must not give up. </li>
