@@ -38,6 +38,7 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 </table>
 </html>
+
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="" src="assets/images/Churches etc/FBN.png"> | <img width="1604" alt="" src="assets/images/Churches etc/CtK.png">|<img width="1604" alt="" src="assets/images/Churches etc/Otter Creek CoC.jpeg">|<img width="1604" alt="" src="assets/images/Tennesseean.png">|
