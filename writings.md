@@ -12,6 +12,7 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%}
 
+
 | **Opinion Pieces** | **The Coronavirus** |
 | :----------:       | :-----:             |
 | I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. [The Tennesseean, 2020](https://www.tennessean.com/story/opinion/2020/03/09/california-clean-car-standard-deserves-support/4980634002/) ![The Tennesseean](assets/images/Tennesseean.png) | I wrote a scientific primer on the coronavirus in the early days of the pandemic. [Part 1 - The Science](/PartOneScience) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
