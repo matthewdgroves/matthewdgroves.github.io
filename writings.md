@@ -2,16 +2,10 @@
 title: Writings
 excerpt:
 ---
-
 As a science educator for Christians, the majority of questions I receive are about two topics: climate change and evolution. I've written a guide to climate change intended for people of any background, and am in the process of writing several more guides to evolution, the Big Bang, vaccines, and Genesis. I’m also exploring a series of devotionals based on science.
-<p style="text-align: center;">
- <h3>Climate Change: A Guide for the Perplexed</h3>
- </p>
-
+<p style="text-align: center;"> <h3>Climate Change: A Guide for the Perplexed</h3></p>
 After receiving many questions about the topic, I wrote an introductory-level guide to climate change. It assumes no scientific background, and it’s ordered by topic so you can easily find what you’re looking for. If you don't believe in climate change, want to know more, or are just confused, this is for you.
-
 {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%}
-
 | **Opinion Pieces** | **The Coronavirus** |
 | :----------:       | :-----:             |
 | I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. [The Tennesseean, 2020](https://www.tennessean.com/story/opinion/2020/03/09/california-clean-car-standard-deserves-support/4980634002/) ![The Tennesseean](assets/images/Tennesseean.png) | I wrote a scientific primer on the coronavirus in the early days of the pandemic. [Part 1 - The Science](/PartOneScience) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
@@ -24,8 +18,6 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 |  |  |
 | When informed Christians ponder devastation from climate change that will affect millions of people for generations to come, it’s easy to lose hope for the future. But our actions still matter. We must not give up. [Baptist News Global, 2018](https://baptistnews.com/article/climate-nihilism-is-right-to-recognize-the-dire-situation-were-in-but-wrong-to-lose-hope/) ![Baptist News Global](assets/images/BNG.png) |  |
 |  |  |
-
-
 <html>
 <table>
     <tr>
@@ -44,6 +36,5 @@ After receiving many questions about the topic, I wrote an introductory-level gu
             <img src="assets/images/Logos/logo.jpeg" alt="matthewdgroves.com">
         </td>
     </tr>
-
 </table>
 </html>
