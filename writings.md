@@ -34,20 +34,15 @@ After receiving many questions about the topic, I wrote an introductory-level gu
         <td> <h2> The Coronavirus </h2> </td>
     </tr>
     <tr>
-        <td> <ul>
-            <li> I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. </li>
-            <li> With other members of Young Evangelicals for Climate Action, I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html)</li>
-            <li> I wrote a Letter to the Editor critiquing the Trump administration’s attacks on the Endangered Species Act. </li>
-            <li> "Jesus didn’t say anything about climate change, but he said plenty about how we should care for those whom society would prefer to forget.” </li>
-            <li> When informed Christians ponder devastation from climate change that will affect millions of people for generations to come, it’s easy to lose hope for the future. But our actions still matter. We must not give up. </li>
-        </ul> </td>
+        <td>
+            I wrote an Opinion piece in the Tennesseean arguing against the Trump administration’s attacks on clear air standards. <a href="https://www.tennessean.com/story/opinion/2020/03/09/california-clean-car-standard-deserves-support/4980634002/">The Tennesseean, 2020</a>
+            <img src="assets/images/Tennesseean.png" alt="The Tennesseean">
+        </td>
         <td> </td>
-        <td> <ul>   
-            <li> 1 - The Science </li>
-            <li> 2 - The Solutions </li>
-            <li> 3 - The Spirituality </li>
-            <li> Climate, the Coronavirus, and Justice </li>
-        </ul> </td>
+        <td> 
+            I wrote a scientific primer on the coronavirus in the early days of the pandemic. <a href="/PartOneScience">Part 1 - The Science</a> 
+            <img src="assets/images/Logos/logo.jpeg" alt="matthewdgroves.com">
+        </td>
     </tr>
 
 </table>
