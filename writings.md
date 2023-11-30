@@ -194,3 +194,19 @@ This example and the [source][src] intentionally keep any other fancy styling to
 [bennu]: http://bennu-js.com
 
 [src]: https://github.com/mattbierner/markdown-two-column-documentation-example
+
+
+
+
+
+
+#+BEGIN_columns
+#+ATTR_HTML: :width 60%
+#+BEGIN_column
+- My notes based on my partial understanding
+#+END_column
+#+ATTR_HTML: :width 40%
+#+BEGIN_column
+- Joined late in the project
+#+END_column
+#+END_columns
