@@ -37,7 +37,7 @@ For maximum metaness, the page itself uses the two column layout it documents. M
 
 Checkout the complete code on [github][src]. It uses [Jekyll](http://jekyllrb.com). Simply run: `$ jekyll build` to build it.
 
-<div class="begin-examples"></div>
+<div class="begin-examples"> left column</div>
 
 ## The Markdown
 We'll abuse some Markdown elements to get the layout we want. You can choose to style your page differently, but here we'll have code examples on the right, and code explanations on the left.
@@ -52,7 +52,7 @@ Anything before this element will be rendered normally.
 And we should also tell it where the two column layout ends.
 
 ```
-<div class="end-examples"></div>
+<div class="end-examples"> column ends </div>
 ```
 
 ### `h2` will be an example section header.
