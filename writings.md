@@ -10,11 +10,11 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%}
 
 
-| **Opinion Pieces** | | **The Coronavirus**  |
+| **Opinion Pieces** | |] **The Coronavirus**  |
 | :----------:         | --- | :-----:             |
-| I wrote an Opinion piece in *the Tennesseean* arguing against the Trump administration’s attacks on clear air standards. [The Tennesseean, 2020](https://www.tennessean.com/story/opinion/2020/03/09/california-clean-car-standard-deserves-support/4980634002/) ![The Tennesseean](assets/images/Tennesseean.png) | | I wrote a scientific primer on the coronavirus in the early days of the pandemic. [Part 1 - The Science](/PartOneScience) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
-|  ||  |
-| I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post, 2019](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html) <br/> ![TheChristianPost](assets/images/Orgs/The Christian Post.png) | | A deeper exploration and explanation of the public health solutions recommended by experts during the lockdowns. [Part 2 - The Solutions](/PartTwoSolutions) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
+| I wrote an Opinion piece in *the Tennesseean* arguing against the Trump administration’s attacks on clear air standards. [The Tennesseean, 2020](https://www.tennessean.com/story/opinion/2020/03/09/california-clean-car-standard-deserves-support/4980634002/) ![The Tennesseean](assets/images/Tennesseean.png) | |] I wrote a scientific primer on the coronavirus in the early days of the pandemic. [Part 1 - The Science](/PartOneScience) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
+|  ||]  |
+| I argue that all Christians should take part in the Global Climate Strike as a duty to both God and neighbor. [The Christian Post, 2019](https://www.christianpost.com/voice/were-young-evangelicals-and-were-striking-for-the-climate-will-you-join-us.html) <br/> ![TheChristianPost](assets/images/Orgs/The Christian Post.png) | |] A deeper exploration and explanation of the public health solutions recommended by experts during the lockdowns. [Part 2 - The Solutions](/PartTwoSolutions) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
 |  ||  |
 | I wrote a Letter to the Editor critiquing the Trump administration’s attacks on the Endangered Species Act and why Christians ought to care about protections for at-risk species. [The Tennesseean, 2019](assets/LTETennessean.pdf) ![The Tennesseean](assets/images/Tennesseean.png)| | Reflections on the spiritual and theological nature of pandemics, suffering, community, and reading scripture in trying times . [Part 3 - The Spirituality](/PartThreeSpirituality) ![matthewdgroves.com](assets/images/Logos/logo.jpeg) |
 |  ||  |
