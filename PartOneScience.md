@@ -23,3 +23,7 @@ Now, it is true that most young, healthy people are unlikely to be in serious da
 # Have a separate serious illness, like cancer
 # Have diabetes (like my wife)
 # Have received an organ transplant (like my mom and aunt)
+
+### That’s why it’s almost worse that you can contract the disease without it affecting you. Yes, you’ll be fine. But if you’re young and healthy, the danger is not really that you will die. The danger is that you’ll be contagious — without showing symptoms or even knowing you have it — and you’ll infect someone in the group above, whose immune system won’t be able to protect them. ###
+
+And since [America is so, so far behind other countries in our testing](https://www.vox.com/policy-and-politics/2020/3/13/21178289/confirmed-coronavirus-cases-us-countries-italy-iran-singapore-hong-kong), there are almost certainly thousands and thousands more infected people in the US than the official count shows. Because even if we were testing everyone with symptoms, all of the infected people without symptoms would be infecting even more people. If you look at the Chinese region where the outbreak began, we can see that at any point during the growth phase, there were actually [~20 times](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) as many real cases (gray bars added up) as diagnosed cases (yellows bars added up):
