@@ -14,7 +14,7 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 <table>
     <tr>
         <td style="width":290px> <img src="assets/images/Glacier.jpg">  </td>
-        <td> </td>
+        <td> <button type="button"> <a href="guide.md"></button> </td>
     </tr>
 </table>
 
