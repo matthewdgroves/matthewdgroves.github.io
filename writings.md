@@ -9,7 +9,7 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 |  |  |  |
 | :------: | ----- | :----------: |
-| <html><div style="width:290px">![Glacier](assets/images/Glacier.jpg)</div></html> | | {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%} |
+| ![Glacier](assets/images/Glacier.jpg) | | {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%} |
 
 <!--
 <table>
