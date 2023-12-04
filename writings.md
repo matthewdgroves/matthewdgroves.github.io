@@ -9,9 +9,16 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 
 |  |  |  |
 | :------: | ----- | :----------: |
-| <div style="width:290px">![Glacier](assets/images/Glacier.jpg)</div> | | {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%} |
+| ![Glacier](assets/images/Glacier.jpg) | | {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%} |
 
-
+<!--
+<table>
+    <tr>
+        <td style="width":290px> <img src=".assets/images/Glacier.jpg">  </td>
+        <td> <button type="button"> <a href="guide.md"></button> </td>
+    </tr>
+</table>
+-->
 
 | **Opinion Pieces** | | **The Coronavirus**  |
 | :----------:         | --- | :-----:             |
