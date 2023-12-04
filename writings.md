@@ -7,9 +7,9 @@ As a science educator for Christians, the majority of questions I receive are ab
 <p style="text-align: center;"> <h3>Climate Change: A Guide for the Perplexed</h3></p>
 After receiving many questions about the topic, I wrote an introductory-level guide to climate change. It assumes no scientific background, and it’s ordered by topic so you can easily find what you’re looking for. If you don't believe in climate change, want to know more, or are just confused, this is for you.
 
-| <div style="width:290px">property</div> |  |  |
+|  |  |  |
 | :------: | ----- | :----------: |
-| ![Glacier](assets/images/Glacier.jpg) | | {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%} |
+| <div style="width:290px">property![Glacier](assets/images/Glacier.jpg)</div> | | {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%} |
 
 
 
