@@ -28,9 +28,6 @@ And since [America is so, so far behind other countries in our testing](https://
 
 ![](/assets/images/covid/hubei.png)
 
-| ![matthewdgroves.com](assets/images/covid/hubei.jpg) | 
-|:--:| 
-| *Source: Tomas Pueyo [analysis](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) over chart and data from the [Journal of the American Medical Association](https://jamanetwork.com/journals/jama/fullarticle/2762130)* |
 
 This is why the US could easily have over 500,000 people infected right now, even though we have only [~2,500 confirmed cases](https://coronavirus.jhu.edu/map.html). And this is why the [Ohio state government estimates they have over 100,000 real cases](https://thehill.com/policy/healthcare/487329-ohio-health-official-estimates-100000-people-in-state-have-coronavirus), even though they only have 26 confirmed cases. This means **there’s a decent chance you are currently infected and contagious, but don’t even realize it.**
 
