@@ -5,6 +5,8 @@ excerpt: The science of the novel coronavirus
 
 As you’ve almost certainly heard by now, we’re in the middle of an exponentially-growing outbreak of a new coronavirus (technically, the virus is called SARS-CoV-2 and the disease it causes is COVID-19). You’ve likely seen photos like [this](https://www.miamiherald.com/news/nation-world/world/article241141236.html) on social media:
 
+<img src="/assets/images/covid/tp.jpg" alt="Toilet Paper">
+
 ![Toilet Paper](/assets/images/covid/tp.jpg)
 
 So: What is this virus? Why should we care? I am a science communicator and educator and have been getting lots of questions about the coronavirus recently, so I decided to write up a primer on the topic to send out. This is part one of three, focusing on the science. I’ve written part two on [the solutions](PartTwoSolutions.md) and part three on [spiritual resources](PartThreeSpirituality.md) for Christians/clergy, which is out now. Feel free to share this around or contact me with questions.
