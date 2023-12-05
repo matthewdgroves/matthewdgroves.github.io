@@ -25,16 +25,17 @@ Now, it is true that most young, healthy people are unlikely to be in serious da
 
 #### That’s why it’s almost worse that you can contract the disease without it affecting you. Yes, you’ll be fine. But if you’re young and healthy, the danger is not really that you will die. The danger is that you’ll be contagious — without showing symptoms or even knowing you have it — and you’ll infect someone in the group above, whose immune system won’t be able to protect them. ####
 
+
 And since [America is so, so far behind other countries in our testing](https://www.vox.com/policy-and-politics/2020/3/13/21178289/confirmed-coronavirus-cases-us-countries-italy-iran-singapore-hong-kong), there are almost certainly thousands and thousands more infected people in the US than the official count shows. Because even if we were testing everyone with symptoms, all of the infected people without symptoms would be infecting even more people. If you look at the Chinese region where the outbreak began, we can see that at any point during the growth phase, there were actually [~20 times](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) as many real cases (gray bars added up) as diagnosed cases (yellows bars added up):
 
-![](/assets/images/covid/hubei.png)
+![Hubei](/assets/images/covid/hubei.png)
 
 
 This is why the US could easily have over 500,000 people infected right now, even though we have only [~2,500 confirmed cases](https://coronavirus.jhu.edu/map.html). And this is why the [Ohio state government estimates they have over 100,000 real cases](https://thehill.com/policy/healthcare/487329-ohio-health-official-estimates-100000-people-in-state-have-coronavirus), even though they only have 26 confirmed cases. This means **there’s a decent chance you are currently infected and contagious, but don’t even realize it.**
 
 All the data from other countries like Italy confirms these fears about widespread unconfirmed cases, since we aren’t any better-prepared than the Italians were:
 
-![](/assets/images/covid/italy.png)
+![Italy](/assets/images/covid/italy.png)
 
 So all indications lead us to believe that we as a country are about a week or two “behind” Italy. This is bad news: the Italians are currently under a government-mandated, nation-wide lockdown to try and prevent the spread ([The French and Spanish have just joined them](https://www.bbc.com/news/world-europe-51892477), closing all non-essential stores and organizations).
 
