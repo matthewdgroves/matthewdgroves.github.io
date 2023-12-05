@@ -33,3 +33,40 @@ And since [America is so, so far behind other countries in our testing](https://
 This is why the US could easily have over 500,000 people infected right now, even though we have only [~2,500 confirmed cases](https://coronavirus.jhu.edu/map.html). And this is why the [Ohio state government estimates they have over 100,000 real cases](https://thehill.com/policy/healthcare/487329-ohio-health-official-estimates-100000-people-in-state-have-coronavirus), even though they only have 26 confirmed cases. This means **there’s a decent chance you are currently infected and contagious, but don’t even realize it.**
 
 All the data from other countries like Italy confirms these fears about widespread unconfirmed cases, since we aren’t any better-prepared than the Italians were:
+
+![](/assets/images/covid/italy.png)
+
+So all indications lead us to believe that we as a country are about a week or two “behind” Italy. This is bad news: the Italians are currently under a government-mandated, nation-wide lockdown to try and prevent the spread ([The French and Spanish have just joined them](https://www.bbc.com/news/world-europe-51892477), closing all non-essential stores and organizations).
+
+Worse, these countries’ hospitals are being absolutely pummeled. Italian doctors are **currently** [having to decide which patients deserve live-saving treatment](https://www.theatlantic.com/ideas/archive/2020/03/who-gets-hospital-bed/607807/), and [their medical groups are giving official recommendations about whose life is not worth saving](https://twitter.com/Yascha_Mounk/status/1237731864233807872). This is terrible, and drastic, and it’s where the US will be in a week or two. Seattle, an early hub of the virus here in America, is [already beginning to see similar problems](https://theweek.com/speedreads/901695/seattlearea-hospital-italy-show-what-awaits-americas-health-care-system-coronavirus-surges) in its hospitals. These hospital beds are crucial to save the lives of people with weaker immune systems (not to mention people who have unrelated health crises, like car crashes, strokes, heart attacks, etc.), and they’re about to start filling up. American hospitals were already pretty full, and [they’re taking severe measures like calling in doctors out of retirement](https://apnews.com/6c9b9686c4af21b9984341d330073979) and cancelling less-critical surgeries to get ready.
+
+> Italian doctors are currently [having to decide which patients deserve live-saving treatment](https://www.theatlantic.com/ideas/archive/2020/03/who-gets-hospital-bed/607807/), and we have every reason to believe the US will be in a similar place in 10–14 days
+
+We also don’t have a vaccine for this coronavirus, and we probably won’t have one until 2021 at the earliest. Even if we suspend animal trials and begin tests immediately on human beings — which not everyone thinks is the right approach, even in the face of a pandemic — we’re still likely to be [waiting for a full year or more for this vaccine](https://www.scientificamerican.com/article/researchers-rush-to-test-coronavirus-vaccine-in-people/).
+
+There’s also [no reason to believe the virus will fade significantly in the summer](https://ccdd.hsph.harvard.edu/will-covid-19-go-away-on-its-own-in-warmer-weather/), despite what some people have said. We might be tempted to take hope from the fact that Wuhan, the Chinese city where the disease originated, [has largely contained the virus and only has a few new cases each day](https://www.reuters.com/article/us-health-coronavirus-china/chinas-coronavirus-epicenter-of-wuhan-sees-single-digit-new-cases-for-second-day-idUSKBN2100BP), down from ~3,000 at the peak of the outbreak. However, that’s because [they have been in an unprecedentedly strict lockdown since January 22](https://time.com/5796425/china-coronavirus-lockdown/), severely [restricting people’s civil liberties](https://www.npr.org/sections/goatsandsoda/2020/03/03/809965742/personal-essay-from-wuhan-living-in-hell) in a way that may not be possible in America. So there’s every reason to believe that we’re in this for the long haul.
+
+<br>
+
+So, what to do? I’ll write a longer entry called “Part 2: Solutions” soon, but the short answer is:
+
+- Wash your hands **a lot** (especially before eating or being in public places) and for at least 20 seconds (there’s plenty of pop songs with choruses that are long enough)
+- Don’t touch your face. I know it’s hard, but that’s a leading way that people catch the disease.
+- Start avoiding unnecessary contact with other people now. This is the time to stop shaking hands at all, try and work from home, and cancel big gatherings and any travel plans. You may have heard this called “social distancing,” where you try to keep at least 6 feet away from others. It’s the best way to slow the spread of the disease and keep our hospitals from being overwhelmed. It’s perhaps best summarized in this clip:
+
+<blockquote class="twitter-tweet"><p lang="it" dir="ltr">Roma, mercato testaccio.<a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> <a href="https://twitter.com/hashtag/coronavirusitalia?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirusitalia</a> <a href="https://twitter.com/hashtag/11Marzo?src=hash&amp;ref_src=twsrc%5Etfw">#11Marzo</a> <a href="https://twitter.com/hashtag/iorestoacasa?src=hash&amp;ref_src=twsrc%5Etfw">#iorestoacasa</a> <a href="https://twitter.com/hashtag/restoacasa?src=hash&amp;ref_src=twsrc%5Etfw">#restoacasa</a> <a href="https://twitter.com/hashtag/chiuderetutto?src=hash&amp;ref_src=twsrc%5Etfw">#chiuderetutto</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://twitter.com/hashtag/roma?src=hash&amp;ref_src=twsrc%5Etfw">#roma</a> <a href="https://twitter.com/hashtag/testaccio?src=hash&amp;ref_src=twsrc%5Etfw">#testaccio</a> <a href="https://t.co/wJBSf66Kyu">pic.twitter.com/wJBSf66Kyu</a></p>&mdash; L&#39;Antikulturale (@Antikulturale) <a href="https://twitter.com/Antikulturale/status/1237746266936926210?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Be back soon,
+
+Matthew
+
+<br>
+
+#### Deeper dives if you want to do some more research:
+
+- A really solid [analysis of the data](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) of the spread from an engineer named Tomas Pueyo
+- An easy-to-use [map from Johns Hopkins University](https://coronavirus.jhu.edu/map.html) tracking the spread of cases, deaths, and recoveries.
+- One of the best science/math YouTube channels, 3Blue1Brown, made [a video](https://www.youtube.com/watch?v=Kas0tIxDvrg) on the math of Exponential Growth and Epidemics
+- If you want to make sure you’re getting scientifically-literate information on social media, [these are trusted sources](https://twitter.com/i/lists/1238878117919367168/members).
+- Joe Rogan runs an interview podcast/show and [interviewed](https://www.youtube.com/watch?v=E3URhJx0NSw) Dr. Michael Osterholm, a leading expert in the spread of diseases who works at the University of Minnesota, about the coronavirus spread.
+- The Netflix show [“Explained”](https://www.netflix.com/title/80216752) focused on viral outbreaks in a timely episode a few months ago called [“The Next Pandemic”](https://www.netflix.com/watch/81062202?tctx=0%2C3%2Ceeb16360-b0ac-4cf6-99e1-32fe0de50b51-98974952%2C%2C&trackId=14277283). It’s a great look at how we dealt with one of the most relevant recent pandemics - the 2003 SARS outbreak - and how poorly we prepare for disasters like these until it’s too late. 
