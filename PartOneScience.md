@@ -4,9 +4,9 @@ excerpt: The science of the novel coronavirus
 ---
 
 As you’ve almost certainly heard by now, we’re in the middle of an exponentially-growing outbreak of a new coronavirus (technically, the virus is called SARS-CoV-2 and the disease it causes is COVID-19). You’ve likely seen photos like this on social media:
-<!--![matthewdgroves.com](assets/images/Covid/tp.jpg)-->
+<!--![matthewdgroves.com](assets/images/covid/tp.jpg)-->
 
-|![matthewdgroves.com](assets/images/Covid/tp.jpg)|
+|![matthewdgroves.com](assets/images/covid/tp.jpg)|
 |:--:| 
 | *Source: [NY Times in the Miami Herald](https://www.miamiherald.com/news/nation-world/world/article241141236.html)*|
 So: What is this virus? Why should we care? I am a science communicator and educator and have been getting lots of questions about the coronavirus recently, so I decided to write up a primer on the topic to send out. This is part one of three, focusing on the science. I’ve written part two on [the solutions](PartTwoSolutions.md) and part three on [spiritual resources](PartThreeSpirituality.md) for Christians/clergy, which is out now. Feel free to share this around or contact me with questions.
@@ -24,14 +24,14 @@ Now, it is true that most young, healthy people are unlikely to be in serious da
 - Have diabetes (like my wife)
 - Have received an organ transplant (like my mom and aunt)
 
-### That’s why it’s almost worse that you can contract the disease without it affecting you. Yes, you’ll be fine. But if you’re young and healthy, the danger is not really that you will die. The danger is that you’ll be contagious — without showing symptoms or even knowing you have it — and you’ll infect someone in the group above, whose immune system won’t be able to protect them. ###
+#### That’s why it’s almost worse that you can contract the disease without it affecting you. Yes, you’ll be fine. But if you’re young and healthy, the danger is not really that you will die. The danger is that you’ll be contagious — without showing symptoms or even knowing you have it — and you’ll infect someone in the group above, whose immune system won’t be able to protect them. ####
 
 And since [America is so, so far behind other countries in our testing](https://www.vox.com/policy-and-politics/2020/3/13/21178289/confirmed-coronavirus-cases-us-countries-italy-iran-singapore-hong-kong), there are almost certainly thousands and thousands more infected people in the US than the official count shows. Because even if we were testing everyone with symptoms, all of the infected people without symptoms would be infecting even more people. If you look at the Chinese region where the outbreak began, we can see that at any point during the growth phase, there were actually [~20 times](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) as many real cases (gray bars added up) as diagnosed cases (yellows bars added up):
 
-| ![matthewdgroves.com](assets/images/Covid/Hubei.jpg) | 
+| ![matthewdgroves.com](assets/images/covid/hubei.jpg) | 
 |:--:| 
 | *Source: Tomas Pueyo [analysis](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) over chart and data from the [Journal of the American Medical Association](https://jamanetwork.com/journals/jama/fullarticle/2762130)* |
 
-This is why the US could easily have over 500,000 people infected right now, even though we have only [~2,500 confirmed cases](https://coronavirus.jhu.edu/map.html). And this is why the Ohio state government estimates they have over 100,000 real cases, even though they only have 26 confirmed cases. This means there’s a decent chance you are currently infected and contagious, but don’t even realize it.
+This is why the US could easily have over 500,000 people infected right now, even though we have only [~2,500 confirmed cases](https://coronavirus.jhu.edu/map.html). And this is why the [Ohio state government estimates they have over 100,000 real cases](https://thehill.com/policy/healthcare/487329-ohio-health-official-estimates-100000-people-in-state-have-coronavirus), even though they only have 26 confirmed cases. This means **there’s a decent chance you are currently infected and contagious, but don’t even realize it.**
 
 All the data from other countries like Italy confirms these fears about widespread unconfirmed cases, since we aren’t any better-prepared than the Italians were:
