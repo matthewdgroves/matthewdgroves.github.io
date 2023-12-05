@@ -4,11 +4,11 @@ excerpt: The science of the novel coronavirus
 ---
 
 As you’ve almost certainly heard by now, we’re in the middle of an exponentially-growing outbreak of a new coronavirus (technically, the virus is called SARS-CoV-2 and the disease it causes is COVID-19). You’ve likely seen photos like this on social media:
-![matthewdgroves.com](assets/images/Covid/tp.jpg)
+<!--![matthewdgroves.com](assets/images/Covid/tp.jpg)-->
 
-| ![matthewdgroves.com](assets/images/Covid/tp.jpg) | 
+|![matthewdgroves.com](assets/images/Covid/tp.jpg)|
 |:--:| 
-| *Source: [NY Times in the Miami Herald](https://www.miamiherald.com/news/nation-world/world/article241141236.html)* |
+| *Source: [NY Times in the Miami Herald](https://www.miamiherald.com/news/nation-world/world/article241141236.html)*|
 So: What is this virus? Why should we care? I am a science communicator and educator and have been getting lots of questions about the coronavirus recently, so I decided to write up a primer on the topic to send out. This is part one of three, focusing on the science. I’ve written part two on [the solutions](PartTwoSolutions.md) and part three on [spiritual resources](PartThreeSpirituality.md) for Christians/clergy, which is out now. Feel free to share this around or contact me with questions.
 **Part 1: The Science**
 Let’s be clear: people buying a years’ worth of toilet paper are panicking. The coronavirus will not end the world. There’s no reason to think that anywhere near a majority of the human race will die, or that we’re facing a post-apocalyptic America like you may have seen in [various](https://en.wikipedia.org/wiki/The_Stand) [works](https://en.wikipedia.org/wiki/Station_Eleven) of [fiction](https://www.syfy.com/syfywire/5-movies-people-win-for-your-coronavirus-quarantine).
