@@ -3,7 +3,7 @@ title: Part 1 - Science
 excerpt: The science of the novel coronavirus
 ---
 
-As you’ve almost certainly heard by now, we’re in the middle of an exponentially-growing outbreak of a new coronavirus (technically, the virus is called SARS-CoV-2 and the disease it causes is COVID-19). You’ve likely seen photos like this (*Source: [Miami Herald](https://www.miamiherald.com/news/nation-world/world/article241141236.html*) on social media:
+As you’ve almost certainly heard by now, we’re in the middle of an exponentially-growing outbreak of a new coronavirus (technically, the virus is called SARS-CoV-2 and the disease it causes is COVID-19). You’ve likely seen photos like this (*Source: [Miami Herald](https://www.miamiherald.com/news/nation-world/world/article241141236.html)*) on social media:
 
 ![matthewdgroves.com](assets/images/covid/tp.jpg)
 
