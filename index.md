@@ -21,6 +21,11 @@ excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projec
      <img src="assets/images/People/GrovesHeadshot.jpg">
     </td>
   </tr>
+  <tr>
+    <td>
+    {% include button.html text="Bring me to your church or school" link="mailto:matthew@matthewdgroves.com" %}
+    </td>
+  </tr>
 </tbody>
 </table>
 
