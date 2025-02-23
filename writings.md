@@ -11,6 +11,18 @@ After receiving many questions about the topic, I wrote an introductory-level gu
 | :------: | ----- | :----------: |
 | ![Glacier](assets/images/Glacier.jpg) | | {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%} |
 
+
+<table>
+    <tr>
+        <td>
+            {% include glacier.html image="/assets/images/Glacier.jpg" caption="" %}
+        </td>
+
+        <td>
+            {% include button.html text="Read the Climate Guide" link="/guide" color="#3366ff" align="center"%}
+        </td>
+    </tr>
+</table>
 <!--
 <table>
     <tr>
